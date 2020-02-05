@@ -1,0 +1,22 @@
+{
+  "name": "express-rest-starter",
+  "version": "1.0.0",
+  "description": "express-rest-starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+  "express",
+  "node",
+  "rest",
+  "softspiders",
+  "starter",
+  "template"
+  ],
+  "author": "Danila Asoyan (https://github.com/Danilkashtan)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
