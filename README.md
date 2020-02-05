@@ -1,43 +1,30 @@
 SOFTSPIDERS
 
-# express-rest-starter
-Minimalistic REST-on-Express starter
+# react-router-starter
 
 ## Feature tags
 
-- express
-- node
-- rest
+- react-router
 - starter
 - template
 
 ---
 
-## Authors
+## Author
 
-[Danila Asoyan](https://github.com/Danilkashtan)
-
----
-
-## Direct ancestors
-- [HelloWorld in JavaScript](https://github.com/softspiders/javascript)
+[Serg Rajab](https://github.com/SergRajab)
 
 ---
 
 ## Install
 
-```
-npm i
-```
+TBD
 
 ---
 
 ## Run
 
-```
-In Node.js: npm start
-In browser - go to: http://localhost:3000/api
-```
+TBD
 
 ---
 
