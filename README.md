@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 # react-router-starter
 
-UNDER DEVELOPMENT
+Simple starter using react-router for navigation.
 
 ## Feature tags
 
@@ -20,13 +20,13 @@ UNDER DEVELOPMENT
 
 ## Install
 
-TBD
+npm i
 
 ---
 
 ## Run
 
-TBD
+npm start
 
 ---
 
