@@ -20,13 +20,16 @@ Simple starter using react-router for navigation.
 
 ## Install
 
+```
 npm i
-
+```
 ---
 
 ## Run
 
+```
 npm start
+```
 
 ---
 
