@@ -12,6 +12,10 @@ Simple starter using react-router for navigation.
 
 ---
 
+## Direct descendants
+
+https://github.com/softspiders/cra-react-router-react-bootstrap-starter
+
 ## Author
 
 [Serg Rajab](https://github.com/SergRajab)
